@@ -5,4 +5,5 @@ This repo contains an implementation of GUI based Lemmatizer for Assamese Langua
 3. a stripping strategy: This is used to strip those inflected words that differ structurely.
 The associated files are added with the code.
 
- for any problems regarding code: contact @ hsuvas@gmail.com
+Some images of output is also shared here!
+for any problems regarding code: contact @ hsuvas@gmail.com
