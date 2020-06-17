@@ -1,7 +1,7 @@
 #author: Hsuvas Borkakoty
 #date: 18.5.2018
 #this program creates a tkinter based GUI which can be used to find the lemmas of the Inflected words in a file
-#Lemmatization is carried out using a trie structure
+#Lemmatization is carried out using a hybrid approach of Trie data Structure and a Rule base with a not so Secret Trick!
 
 
 import collections
@@ -181,7 +181,4 @@ if __name__ == '__main__':
 
     top.mainloop()
 
-    '''w=input('Enter the word:')
-    p=trie.contains(w)
-    print(p)
-    k.close()'''
+ 
