@@ -6,4 +6,7 @@ This repo contains an implementation of GUI based Lemmatizer for Assamese Langua
 The associated files are added with the code.
 
 Some images of output is also shared here!
+
+Additional Descriptions:
+1. Required Libraries: NLTK
 for any problems regarding code: contact @ hsuvas@gmail.com
